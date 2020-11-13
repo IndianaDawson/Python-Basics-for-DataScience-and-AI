@@ -10,6 +10,9 @@ Overall, the tips and shortcuts are from these specializations and certification
 3. [Applied Data Science](https://www.coursera.org/specializations/applied-data-science)
 4. [IBM Applied AI](https://www.coursera.org/professional-certificates/applied-artifical-intelligence-ibm-watson-ai)
 5. [IBM Data Science](https://www.coursera.org/professional-certificates/ibm-data-science)
+6. [Data Analysis and Visualization Foundations](https://www.coursera.org/specializations/data-analysis-visualization-foundations)
+7. [Data Science Fundamentals with Python and SQL](https://www.coursera.org/specializations/data-science-fundamentals-python-sql)
+8. [IBM Data Analyst](https://www.coursera.org/professional-certificates/ibm-data-analyst)
 
 
 I do encourage you to take the full courses as well!
